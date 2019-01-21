@@ -1,0 +1,2 @@
+movement with restrictions
+space restrictions on board model
